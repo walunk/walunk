@@ -1,3 +1,1 @@
 @walunk
-
-NETZkultur Informationssysteme GmbH
